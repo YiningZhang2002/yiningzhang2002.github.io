@@ -30,7 +30,7 @@ author:
   location         : "北京"
   employer         : "中国科学院自动化研究所"
   uri              : # URL
-  email            : # 可填写你的邮箱，如 "zhangyn@nlpr.ia.ac.cn"
+  email            : "zhangyiningdimpt@gmail.com"
 
   # Academic websites
   academia         : # URL
@@ -92,7 +92,7 @@ publication_category:
     title: 'Conference Papers'
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/ for social media previews
+teaser                   : "/home/dataset-local/zyn/githubio/yiningzhang2002.github.io/images/zyn.jpg"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
